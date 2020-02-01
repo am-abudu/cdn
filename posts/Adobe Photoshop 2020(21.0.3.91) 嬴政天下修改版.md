@@ -6,7 +6,7 @@ tags:
     - Adobe
     - 破解
 categories: 应用推荐
-cover:  
+cover:  https://cdn.jsdelivr.net/gh/am-abudu/cdn/images/logo-ps2020.png
 description: Photoshop 拥有智能型锐利化、智能型增加取样、3D 场景面板、建立晕映效果、修图、水印、羽化等等功能，为用户在处理图片上带来了非常大的帮助。并且软件采用了全新的启动界面，让软件的整个界面看起来更加的简洁大方、与时俱进。 
 ---
 Adobe Photoshop 拥有智能型锐利化、智能型增加取样、3D 场景面板、建立晕映效果、修图、水印、羽化等等功能，为用户在处理图片上带来了非常大的帮助。并且软件采用了全新的启动界面，让软件的整个界面看起来更加的简洁大方、与时俱进。
