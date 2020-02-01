@@ -24,3 +24,6 @@ Adobe Photoshop 拥有智能型锐利化、智能型增加取样、3D 场景面�
 文件大小：1940076524 字节
 MD5 ：EF2A01B5396F7DEAF410E984A568779B
 SHA1 ：FD18B03C536E7A095CCD8A8147A2184E0621F7BA
+# 下载地址
+百度云：[https://pan.baidu.com/s/1G_ZjDegeEmNRkj9bW6OnmQ](https://pan.baidu.com/s/1G_ZjDegeEmNRkj9bW6OnmQ)
+
